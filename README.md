@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I am a highly motivated and detail-oriented **Software Test Engineer** with 1 year of experience in **Manual Testing**, **Automation Testing**, and **API Testing**.
+I am a highly motivated and detail-oriented **Software Test Engineer** with 6 Months of experience in **Manual Testing**, **Automation Testing**, and **API Testing**.
 
 - 🔍 Passionate about quality assurance and delivering bug-free software.
 - 🔧 Skilled in designing test cases, identifying defects, and ensuring optimal user experience.
