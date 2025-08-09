@@ -1,47 +1,61 @@
 <h1 align="center">👋 Hi, I'm Sachin Kumar Prajapati</h1>
 
 <p align="center">
-  <img src="IMG-20240227-WA0015.jpg" alt="Sachin Kumar Prajapati" width="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/sachinprajapati20a/sachinprajapati20a/main/IMG-20240227-WA0015.jpg" alt="Sachin Kumar Prajapati" width="180" style="border-radius: 50%;" />
 </p>
 
-
 <p align="center">
-  <strong>Software Test Engineer | Manual & Automation Testing | Java | Selenium WebDriver | API Testing (Postman, REST Assured, Swagger) | JUnit | Agile Methodologies | Jira | CI/CD (Jenkins, GitHub Actions) | TestLink | Mobile Testing | Cucumber (BDD)</strong>
+  <strong>Java Backend Developer | Java 8–17 | Spring Boot | REST APIs | Hibernate | MySQL | Microservices | Spring Security | AWS | Docker | Git | JUnit | Maven | Agile</strong>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a highly motivated and detail-oriented **Software Test Engineer** with 6 Months of experience in **Manual Testing**, **Automation Testing**, and **API Testing**.
+I am a passionate and detail-oriented **Java Backend Developer** with hands-on experience in building scalable, maintainable, and secure applications.
 
-- 🔍 Passionate about quality assurance and delivering bug-free software.
-- 🔧 Skilled in designing test cases, identifying defects, and ensuring optimal user experience.
-- 🚀 Currently learning advanced automation with **Selenium**, **REST Assured**, and real-time testing frameworks.
+- 🚀 Proficient in designing and developing RESTful APIs using **Spring Boot** and **Java**.
+- 🔧 Experienced with backend integrations, data persistence, and API documentation.
+- 📚 Currently exploring **Microservices**, **Spring Security**, and **Cloud Deployment**.
 
 ---
 
 ## 🛠️ Core Skills
 
-| Category              | Skills                                                                 |
-|-----------------------|------------------------------------------------------------------------|
-| ✅ Manual Testing      | Functional, Regression, Smoke, UI, STLC, SDLC, Defect Lifecycle        |
-| ✅ Automation Testing  | Selenium WebDriver (Java), TestNG, JUnit, Maven, Apache POI, Cucumber |
-| ✅ API Testing         | Postman, Swagger, REST Assured (CRUD, schema & status validations)    |
-| ✅ Tools/Platforms     | Git, GitHub, Jenkins, JIRA, TestLink, MySQL, PostgreSQL               |
+| Category           | Skills                                                                 |
+|--------------------|------------------------------------------------------------------------|
+| ✅ Backend Dev      | Java 8–17, Spring Boot, Hibernate, JPA, REST APIs, Microservices       |
+| ✅ Database         | MySQL, PostgreSQL, In-Memory Collections                              |
+| ✅ Tools/Platforms  | Git, GitHub, Maven, Gradle, Docker, AWS, JUnit, Swagger/OpenAPI       |
+| ✅ Frontend Basics  | HTML, CSS, JavaScript, Angular (Basics)                               |
+| ✅ Methodologies    | Agile, CI/CD (GitHub Actions, Jenkins)                                |
 
 ---
 
 ## 📁 Projects Showcase
 
-🔹 **OpenCart Manual UI Testing**  
-Designed and executed comprehensive test cases on OpenCart e-commerce application. Reported bugs and improvements with clarity and precision.
+### **Workforce Management API**
+A backend API system built with Java 17, Spring Boot, and Gradle to manage workforce tasks efficiently.  
+**Features:**
+- Create, retrieve, and manage tasks
+- Assign tasks to employees
+- Smart task scheduling
+- Activity history and task comments
+- OpenAPI (Swagger) integration  
+**Tech Stack:** Java 17, Spring Boot, Gradle (Groovy DSL), MapStruct, Swagger, In-Memory Collections  
+🔗 **GitHub Repo:** [Workforce Management API](https://github.com/SachinPrajapti20/workforcemgmt)
 
-🔹 **Automation Framework (Selenium + POM)**  
-Developed a reusable Selenium automation framework using Java, POM, and TestNG with data-driven testing support.
+---
 
-🔹 **REST API Test Suite**  
-Built robust API test cases using Postman and REST Assured for validation of request/response flow and schema checks.
+### **Transport Management System**
+Built a complete backend for managing transport operations, including trip scheduling, route management, and fare calculation.  
+**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, JPA, Maven  
+
+---
+
+### **Job Portal API**
+Developed APIs for user registration, job posting, and application tracking.  
+**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, JPA, Maven  
 
 ---
 
@@ -49,11 +63,11 @@ Built robust API test cases using Postman and REST Assured for validation of req
 
 - 📧 **Email**: [sachinprajapati20a@gmail.com](mailto:sachinprajapati20a@gmail.com)  
 - 📱 **Mobile**: +91 9616541935  
-- 🔗 **LinkedIn**: [linkedin.com/in/sachinprajapati12](https://www.linkedin.com/in/sachinprajapati12/)
+- 🔗 **LinkedIn**: [linkedin.com/in/sachinprajapati12](https://www.linkedin.com/in/sachinprajapati12/)  
 
 ---
 
 <p align="center">
-  <em>“Quality is never an accident; it is always the result of intelligent effort.”</em><br>
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br>
   <strong>– Sachin Kumar Prajapati</strong>
 </p>
