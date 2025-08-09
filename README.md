@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Sachin Kumar Prajapati</h1>
 
-<p align="center">
-  <img src="https://github.com/SachinPrajapati20/Portfolio/blob/main/IMG-20240227-WA0015.jpg" alt="Sachin Kumar Prajapati" width="100%" />
-</p>
+
 
 <p align="center">
   🚀 <b>Java Backend Developer</b> | Spring Boot | REST APIs | Hibernate | MySQL  
@@ -69,6 +67,6 @@ I am a passionate **Java Backend Developer** with hands-on experience in buildin
 ---
 
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad."</em>  
+  <em>"Code is not just my profession, it’s my way of solving problems and creating impact." – "</em>  
   <b>– Sachin Kumar Prajapati</b>
 </p>
