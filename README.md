@@ -67,6 +67,6 @@ I am a passionate **Java Backend Developer** with hands-on experience in buildin
 ---
 
 <p align="center">
-  <em>"Code is not just my profession, it’s my way of solving problems and creating impact." – "</em>  
-  <b>– Sachin Kumar Prajapati</b>
+  <em>"Code is not just my profession, it’s my way of solving problems and creating impact."</em>  
+  <b>Sachin Kumar Prajapati</b>
 </p>
