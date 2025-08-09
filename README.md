@@ -1,73 +1,73 @@
 <h1 align="center">👋 Hi, I'm Sachin Kumar Prajapati</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachinprajapati20a/sachinprajapati20a/main/IMG-20240227-WA0015.jpg" alt="Sachin Kumar Prajapati" width="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/SachinPrajapati20/SachinPrajapati20/main/profile-banner.png" alt="Sachin Kumar Prajapati" width="100%" />
 </p>
 
 <p align="center">
-  <strong>Java Backend Developer | Java 8–17 | Spring Boot | REST APIs | Hibernate | MySQL | Microservices | Spring Security | AWS | Docker | Git | JUnit | Maven | Agile</strong>
+  🚀 <b>Java Backend Developer</b> | Spring Boot | REST APIs | Hibernate | MySQL  
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
+I am a passionate **Java Backend Developer** with hands-on experience in building secure, scalable, and high-performance applications.
 
-I am a passionate and detail-oriented **Java Backend Developer** with hands-on experience in building scalable, maintainable, and secure applications.
-
-- 🚀 Proficient in designing and developing RESTful APIs using **Spring Boot** and **Java**.
-- 🔧 Experienced with backend integrations, data persistence, and API documentation.
-- 📚 Currently exploring **Microservices**, **Spring Security**, and **Cloud Deployment**.
-
----
-
-## 🛠️ Core Skills
-
-| Category           | Skills                                                                 |
-|--------------------|------------------------------------------------------------------------|
-| ✅ Backend Dev      | Java 8–17, Spring Boot, Hibernate, JPA, REST APIs, Microservices       |
-| ✅ Database         | MySQL, PostgreSQL, In-Memory Collections                              |
-| ✅ Tools/Platforms  | Git, GitHub, Maven, Gradle, Docker, AWS, JUnit, Swagger/OpenAPI       |
-| ✅ Frontend Basics  | HTML, CSS, JavaScript, Angular (Basics)                               |
-| ✅ Methodologies    | Agile, CI/CD (GitHub Actions, Jenkins)                                |
+- 💻 Skilled in Java, Spring Boot, Hibernate, RESTful APIs.
+- 🛠 Strong in writing clean, maintainable code.
+- 🔍 Enthusiastic about solving real-world problems.
+- 📚 Always learning new technologies & improving my craft.
 
 ---
 
-## 📁 Projects Showcase
+## 🛠 Tech Stack
 
-### **Workforce Management API**
-A backend API system built with Java 17, Spring Boot, and Gradle to manage workforce tasks efficiently.  
-**Features:**
-- Create, retrieve, and manage tasks
-- Assign tasks to employees
-- Smart task scheduling
-- Activity history and task comments
-- OpenAPI (Swagger) integration  
-**Tech Stack:** Java 17, Spring Boot, Gradle (Groovy DSL), MapStruct, Swagger, In-Memory Collections  
-🔗 **GitHub Repo:** [Workforce Management API](https://github.com/SachinPrajapti20/workforcemgmt)
-
----
-
-### **Transport Management System**
-Built a complete backend for managing transport operations, including trip scheduling, route management, and fare calculation.  
-**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, JPA, Maven  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### **Job Portal API**
-Developed APIs for user registration, job posting, and application tracking.  
-**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, JPA, Maven  
+## 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **Transport Management System** | Java, Spring Boot, Hibernate, REST APIs, MySQL | Logistics system for trip requests, route optimization, driver assignments. |
+| **Job Portal Backend** | Java, Spring Boot, MySQL, Postman, JUnit | Backend for job search, application tracking, recruiter management. |
+| **Workforce Management API** | Java 17, Spring Boot, MapStruct, Swagger | API system for workforce tasks, assignment, scheduling & activity history. |
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
 
-- 📧 **Email**: [sachinprajapati20a@gmail.com](mailto:sachinprajapati20a@gmail.com)  
-- 📱 **Mobile**: +91 9616541935  
-- 🔗 **LinkedIn**: [linkedin.com/in/sachinprajapati12](https://www.linkedin.com/in/sachinprajapati12/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinPrajapati20&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinPrajapati20&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinPrajapati20&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="center">
+  <a href="mailto:sachinprajapati20a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sachinprajapati12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/SachinPrajapati20"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em><br>
-  <strong>– Sachin Kumar Prajapati</strong>
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em>  
+  <b>– Sachin Kumar Prajapati</b>
 </p>
