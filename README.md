@@ -48,13 +48,14 @@ I am a passionate **Java Backend Developer** with hands-on experience in buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinPrajapati20&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinPrajapati20&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinPrajapti20&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinPrajapti20&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinPrajapati20&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinPrajapti20&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
+
 
 ---
 
