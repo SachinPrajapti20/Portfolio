@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sachin Kumar Prajapati</h1>
 
 <p align="center">
-  <img src="https://[raw.githubusercontent.com/SachinPrajapati20/SachinPrajapati20/main/profile-banner.png](https://github.com/SachinPrajapti20/Portfolio/blob/main/IMG-20240227-WA0015.jpg)" alt="Sachin Kumar Prajapati" width="100%" />
+  <img src="https://github.com/SachinPrajapati20/Portfolio/blob/main/IMG-20240227-WA0015.jpg" alt="Sachin Kumar Prajapati" width="100%" />
 </p>
 
 <p align="center">
@@ -39,19 +39,17 @@ I am a passionate **Java Backend Developer** with hands-on experience in buildin
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **Transport Management System** | Java, Spring Boot, Hibernate, REST APIs, MySQL | Logistics system for trip requests, route optimization, driver assignments. |
-| **Job Portal Backend** | Java, Spring Boot, MySQL, Postman, JUnit | Backend for job search, application tracking, recruiter management. |
-| **Workforce Management API** | Java 17, Spring Boot, MapStruct, Swagger | API system for workforce tasks, assignment, scheduling & activity history. |
+| **🚚 Transport Management System** | Java, Spring Boot, Hibernate, REST APIs, MySQL | Designed for managing logistics operations like trip requests, driver assignments, and route optimization with secure APIs. |
+| **💼 Job Portal Backend** | Java, Spring Boot, MySQL, Postman, JUnit | Backend system enabling job posting, searching, application tracking, and recruiter management. |
+| **👥 Workforce Management API** | Java 17, Spring Boot, MapStruct, Swagger | API platform to manage workforce scheduling, assignments, and activity history. |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachinPrajapati&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinPrajapati&theme=tokyonight" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinPrajapati&theme=tokyo-night" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SachinPrajapati20&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachinPrajapati20&theme=tokyonight" />
 </p>
 
 <p align="center">
