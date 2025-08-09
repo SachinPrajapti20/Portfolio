@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sachin Kumar Prajapati</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SachinPrajapati20/SachinPrajapati20/main/profile-banner.png" alt="Sachin Kumar Prajapati" width="100%" />
+  <img src="https://[raw.githubusercontent.com/SachinPrajapati20/SachinPrajapati20/main/profile-banner.png](https://github.com/SachinPrajapti20/Portfolio/blob/main/IMG-20240227-WA0015.jpg)" alt="Sachin Kumar Prajapati" width="100%" />
 </p>
 
 <p align="center">
